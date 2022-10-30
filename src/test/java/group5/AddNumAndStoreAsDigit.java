@@ -27,15 +27,12 @@ public class AddNumAndStoreAsDigit {
 				 
 			 }
 			 else
-			 {
-				 
+			 {	 
 				 int x= c%10;
 				 System.out.println(x);
 				 int y =c/10;
 				 System.out.println(y);
-			 }
-			 
-					
+			 }		
 		}
      catch(Exception e){
 					
@@ -47,11 +44,7 @@ public class AddNumAndStoreAsDigit {
 					{
 						System.out.println(a[i]);
 					}
-				}
-				
-			 
-			 
-			 
+				}	 
 		}
 	}
 

@@ -5,7 +5,7 @@ import java.util.LinkedHashSet;
 public class RemoveDuplicateCharFromString {
 
 	public static void main(String[] args) {
-		 String s ="KALPANA";
+		 String s ="KALPANA"; //KALPN
 		 LinkedHashSet<Character> set = new LinkedHashSet<Character>();
 			//in linked hash set duplicates removed and maintains the order of insertion
 			
@@ -17,7 +17,7 @@ public class RemoveDuplicateCharFromString {
 			for (Character ch : set) 
 			{
 					
-					System.out.print(ch);
+					System.out.print(ch); 
 				}
 				
 				

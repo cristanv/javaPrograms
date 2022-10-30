@@ -11,5 +11,4 @@ public class MissingNumInArray {
 		}
 System.out.println("missing no is "+sum);
 	}
-
 }

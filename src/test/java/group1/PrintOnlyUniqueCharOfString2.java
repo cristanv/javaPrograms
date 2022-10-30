@@ -9,7 +9,7 @@ public class PrintOnlyUniqueCharOfString2
 
 	public static void main(String[] args) 
 	{
-     String s ="KALPANA";
+     String s ="KALPANA"; //KLPN
 		
 		LinkedHashSet<Character> set = new LinkedHashSet<Character>();
 		

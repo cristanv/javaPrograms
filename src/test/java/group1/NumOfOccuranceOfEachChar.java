@@ -10,7 +10,7 @@ public class NumOfOccuranceOfEachChar {
 
 	public static void main(String[] args) {
 		
-		String s ="KALPANA";
+		String s ="KALPANA"; //K1A3L1P1N1
 		//LinkedList<Character> set = new LinkedList<Character>();
 		LinkedHashSet<Character> set = new LinkedHashSet<Character>();
 		//ArrayList<Character> set = new ArrayList<Character>();
@@ -32,7 +32,7 @@ public class NumOfOccuranceOfEachChar {
 				}
 				
 			}
-			System.out.println(ch+" "+count);
+			System.out.print(ch+""+count);
 		}
 	}
 }

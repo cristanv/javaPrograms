@@ -10,7 +10,7 @@ public class PrintOnlyDuplicateInString {
 
 	public static void main(String[] args) {
 		
-      String s ="KALPANA";
+      String s ="KALPANA"; //A 3
       
     //LinkedList<Character> set= new LinkedList<Character>();
     		LinkedHashSet<Character> set = new LinkedHashSet<Character>();
@@ -35,7 +35,7 @@ public class PrintOnlyDuplicateInString {
 				}
 				
 			}
-			if(count>=2){
+			if(count>1){
 				System.out.println(ch+" "+count);
 			}
 			

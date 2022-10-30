@@ -3,7 +3,7 @@ package stringPrograms;
 public class ReverseUsing3rdVariable {
 
 	public static void main(String[] args) {
-		String s= "TYSS";
+		String s= "welcome to tyss";
 		String rev= "";
 		
 		for (int i = s.length()-1; i >=0; i--)

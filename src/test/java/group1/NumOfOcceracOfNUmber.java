@@ -21,11 +21,10 @@ int a[]= {1,2,2,3,4,5,6,6};
 			{
 				if(no.equals(a[i]));
 				{
-				  count++;
-				  
+				  count++;	  
 				}
 			}
-			System.out.println(no+" ="+ count);
+			System.out.print(no+" ="+ count);
 		}
 	}	
 
